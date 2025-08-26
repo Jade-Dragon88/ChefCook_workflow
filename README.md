@@ -1,3 +1,18 @@
+<table border="0" width="100%">
+  <tbody border="0">
+    <tr border="0" >
+      <td border="0" bordercolor="white">
+        <div>
+          <img src="https://github.com/Jade-Dragon88/ChefCook_workflow/blob/main/Screenshot_20250826_154105_edit_78927490517494.jpg" />
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 <h1 align="center">
   Telegram-бот "Шеф-повар" | n8n Workflow
 </h1>
